@@ -1,0 +1,3 @@
+include ':Excel'
+include ':app'
+rootProject.name = "ExcelTool"
